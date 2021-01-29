@@ -20,7 +20,6 @@ namespace Sabba_RicercaConcorrente
             Console.ReadLine();
         }
 
-
         private static void RicercaNumero(int n, int[] array)
         {
             for (int i = 0; i < 100; i++)
